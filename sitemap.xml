@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/</loc>
+    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/keras/</loc>
+    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/machine-learning/</loc>
+    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/neural-network/</loc>
+    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/lending_club/</loc>
+    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/python/</loc>
+    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/risk/</loc>
+    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/</loc>
+    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/tensorflow/</loc>
+    <lastmod>2020-08-04T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/data-analysis/</loc>
+    <lastmod>2020-08-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/data-visualization/</loc>
+    <lastmod>2020-08-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/ggplot2/</loc>
+    <lastmod>2020-08-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/interactive/</loc>
+    <lastmod>2020-08-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/plotly/</loc>
+    <lastmod>2020-08-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/covid_approval_ratings/</loc>
+    <lastmod>2020-08-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/r/</loc>
+    <lastmod>2020-08-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/public-health/</loc>
+    <lastmod>2020-07-30T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/ut_covid/</loc>
+    <lastmod>2020-07-30T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/sfo_bikeshare/</loc>
+    <lastmod>2020-07-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/classification/</loc>
+    <lastmod>2020-07-05T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/logistic-regression/</loc>
+    <lastmod>2020-07-05T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/scikit-learn/</loc>
+    <lastmod>2020-07-05T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/slc_airport_ml/</loc>
+    <lastmod>2020-07-05T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/supervised-ml/</loc>
+    <lastmod>2020-07-05T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/anova/</loc>
+    <lastmod>2020-06-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/hypothesis-testing/</loc>
+    <lastmod>2020-06-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/pos_psych_ab/</loc>
+    <lastmod>2020-06-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/statistics/</loc>
+    <lastmod>2020-06-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/t-test/</loc>
+    <lastmod>2020-06-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/chord-diagram/</loc>
+    <lastmod>2020-05-13T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/divvy_chord/</loc>
+    <lastmod>2020-05-13T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/pandas/</loc>
+    <lastmod>2020-05-13T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/flask-api/</loc>
+    <lastmod>2020-04-29T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/gui/</loc>
+    <lastmod>2020-04-29T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/html/</loc>
+    <lastmod>2020-04-29T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/regression/</loc>
+    <lastmod>2020-04-29T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/wine_quality/</loc>
+    <lastmod>2020-04-29T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/choropleth/</loc>
+    <lastmod>2020-04-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/geojson/</loc>
+    <lastmod>2020-04-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/tableau/</loc>
+    <lastmod>2020-04-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/ut_ed_attainment/</loc>
+    <lastmod>2020-04-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/bokeh/</loc>
+    <lastmod>2020-03-14T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/poverty_election_participation/</loc>
+    <lastmod>2020-03-14T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/clustering/</loc>
+    <lastmod>2020-03-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/k-means/</loc>
+    <lastmod>2020-03-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/regex/</loc>
+    <lastmod>2020-03-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/tf-idf/</loc>
+    <lastmod>2020-03-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/goodreads_ml/</loc>
+    <lastmod>2020-03-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/unsupervised-ml/</loc>
+    <lastmod>2020-03-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/ut_housing_affordability/</loc>
+    <lastmod>2020-02-15T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/time-series-data/</loc>
+    <lastmod>2020-01-29T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/ut_crash_srss/</loc>
+    <lastmod>2020-01-29T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/slc_bike_ped_crashes/</loc>
+    <lastmod>2020-01-12T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/divvy_sankey/</loc>
+    <lastmod>2019-11-08T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/ut_opioids/</loc>
+    <lastmod>2019-10-24T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/matplotlib/</loc>
+    <lastmod>2019-10-10T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/ut_vaccinations/</loc>
+    <lastmod>2019-10-10T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/snowfall/</loc>
+    <lastmod>2019-08-02T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/tags/a/b-testing/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dallinwitt.github.io/portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

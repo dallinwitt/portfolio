@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Dallin Witt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2020 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2020 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dallinwitt.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>data analysis</title>
+      <link>https://dallinwitt.github.io/portfolio/tags/data-analysis/</link>
+      <pubDate>Thu, 20 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://dallinwitt.github.io/portfolio/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data visualization</title>
+      <link>https://dallinwitt.github.io/portfolio/tags/data-visualization/</link>
+      <pubDate>Thu, 20 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://dallinwitt.github.io/portfolio/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ggplot2</title>
+      <link>https://dallinwitt.github.io/portfolio/tags/ggplot2/</link>
+      <pubDate>Thu, 20 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://dallinwitt.github.io/portfolio/tags/ggplot2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hypothesis testing</title>
+      <link>https://dallinwitt.github.io/portfolio/tags/hypothesis-testing/</link>
+      <pubDate>Thu, 20 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://dallinwitt.github.io/portfolio/tags/hypothesis-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://dallinwitt.github.io/portfolio/tags/r/</link>
+      <pubDate>Thu, 20 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://dallinwitt.github.io/portfolio/tags/r/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>keras</title>
@@ -66,33 +111,6 @@
     </item>
     
     <item>
-      <title>data analysis</title>
-      <link>https://dallinwitt.github.io/portfolio/tags/data-analysis/</link>
-      <pubDate>Sun, 02 Aug 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://dallinwitt.github.io/portfolio/tags/data-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data visualization</title>
-      <link>https://dallinwitt.github.io/portfolio/tags/data-visualization/</link>
-      <pubDate>Sun, 02 Aug 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://dallinwitt.github.io/portfolio/tags/data-visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ggplot2</title>
-      <link>https://dallinwitt.github.io/portfolio/tags/ggplot2/</link>
-      <pubDate>Sun, 02 Aug 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://dallinwitt.github.io/portfolio/tags/ggplot2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>interactive</title>
       <link>https://dallinwitt.github.io/portfolio/tags/interactive/</link>
       <pubDate>Sun, 02 Aug 2020 12:00:00 +0000</pubDate>
@@ -107,15 +125,6 @@
       <pubDate>Sun, 02 Aug 2020 12:00:00 +0000</pubDate>
       
       <guid>https://dallinwitt.github.io/portfolio/tags/plotly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://dallinwitt.github.io/portfolio/tags/r/</link>
-      <pubDate>Sun, 02 Aug 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://dallinwitt.github.io/portfolio/tags/r/</guid>
       <description></description>
     </item>
     
@@ -170,15 +179,6 @@
       <pubDate>Fri, 12 Jun 2020 12:00:00 +0000</pubDate>
       
       <guid>https://dallinwitt.github.io/portfolio/tags/anova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hypothesis testing</title>
-      <link>https://dallinwitt.github.io/portfolio/tags/hypothesis-testing/</link>
-      <pubDate>Fri, 12 Jun 2020 12:00:00 +0000</pubDate>
-      
-      <guid>https://dallinwitt.github.io/portfolio/tags/hypothesis-testing/</guid>
       <description></description>
     </item>
     

@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>A/B Testing: Analyzing Click Rates for Various Link Labels</title>
+      <link>https://dallinwitt.github.io/portfolio/post/msu_library_abtest/</link>
+      <pubDate>Thu, 20 Aug 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://dallinwitt.github.io/portfolio/post/msu_library_abtest/</guid>
+      <description>Used data collected by the Montana State University Library to determine the impact that a single changed label had on click rates. Used a generalized linear model to validate the results, indicating a statistically significant impact.  Link to GitHub repository</description>
+    </item>
+    
+    <item>
       <title>Hypothesis Testing: Efficacy of Web-based Interventions on Happiness and Depressive Symptoms</title>
       <link>https://dallinwitt.github.io/portfolio/post/pos_psych_ab/</link>
       <pubDate>Fri, 12 Jun 2020 12:00:00 +0000</pubDate>
